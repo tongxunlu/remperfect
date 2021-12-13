@@ -68,7 +68,7 @@ function htmlSize() {
     // root.className="remShow";
 
   //  vw计算模式 2021-12-13 测试TODO 待验证
-  // 1/(375/100)/2,页面原来是15px的 css写30rem即可，也就是 15*2
+  // 1/(375/100)/2,页面原来是15px的 css写15rem即可
   //  1/(375/100)/2==0.133vw 存到html root 意思是 1px==0.133vw
   // 设计稿 12px==  实际页面css 12 rem
     root.style.fontSize=(1/(w/100))+"vw";
