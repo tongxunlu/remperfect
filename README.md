@@ -1,5 +1,5 @@
 # remperfect
-完美的rem解决方案
+完美的rem解决方案,将 html root的像素改为 vw,css 基础代码，font-size:1px
 
 ```javascript
 "use strict";
