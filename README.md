@@ -4,6 +4,7 @@ css 基础代码  reset.css
 ```css
 html{ font-size:1px },防止页面样式因为脚本没执行完有闪现
 
+#
 ```javascript
 "use strict";
 +function(){
