@@ -1,12 +1,9 @@
 # remperfect
 完美的rem解决方案,将 html root的像素改为 vw,
-css 基础代码  reset.css
-```css
-html{ font-size:1px }
-#
-防止页面样式因为脚本没执行完有闪现
 
-#
+##css 基础代码  reset.css 防止页面样式因为脚本没执行完有闪现
+html{ font-size:1px }
+
 ```javascript
 "use strict";
 +function(){
